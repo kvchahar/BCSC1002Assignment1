@@ -1,7 +1,5 @@
 /*  Created by IntelliJ IDEA.
- *  User: Divyansh Bhardwaj (dbc2201)
- *  Date: 21/08/20
- *  Time: 3:49 PM
+ *  User: Krishnaveer Chahar (191500410)
  *  File Name : Book.java
  * */
 package definitions;
